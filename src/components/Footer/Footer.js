@@ -8,7 +8,7 @@ function Footer({ admin }) {
   const gmailHandler = () => {
     window.open(
       "mailto:" +
-      "piyushsati311999@gmail.com" +
+      "arista.indrajaya@gmail.com" +
       "?subject=" +
       " " +
       "&body=" +

@@ -8,7 +8,7 @@ module.exports = withPWA({
     runtimeCaching,
   },
   images: {
-    domains: ["www.static-src.com", "fakestoreapi.com"],
+    domains: ["cdn.statically.io", "fakestoreapi.com"],
   },
   env: {
     stripe_public_key: process.env.STRIPE_PUBLIC_KEY,
